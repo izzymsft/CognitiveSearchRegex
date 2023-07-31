@@ -1,0 +1,2 @@
+# CognitiveSearchRegex
+Azure Cognitive Search
